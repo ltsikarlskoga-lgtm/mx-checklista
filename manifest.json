@@ -1,0 +1,9 @@
+{
+  "name": "Lindstr\u00f6ms MX Checklista",
+  "short_name": "MX",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b2a3d",
+  "theme_color": "#0b2a3d",
+  "icons": []
+}
